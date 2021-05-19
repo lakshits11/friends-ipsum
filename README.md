@@ -1,7 +1,12 @@
 # friends-ipsum
 <h3>A dummy text generator, but it just got more exciting!</h3>
 Rather than generating than boring Lorem Ipsum, try this. It generates dummy text from Friends Sitcom Plot.
-<h2>Could I be any more happier ? </h2>
+
+## Website Link
+
+[<img src="https://user-images.githubusercontent.com/54276661/118802215-7ff59f80-b8bf-11eb-9fa0-b9553c59e0e9.png">](https://friends-ipsum.herokuapp.com/)
+
+## Could I be any more happier ?
 Some of the best moments I have definitely not forgot to include:
 
 ![enter image description here](https://media.giphy.com/media/UrbnbuU24p1zgyDMUH/giphy.gif)
@@ -10,7 +15,8 @@ Some of the best moments I have definitely not forgot to include:
 
 ![enter image description here](https://media.giphy.com/media/mqS9xgB7dUFVu/giphy.gif)
 
-![enter image description here](http://24.media.tumblr.com/tumblr_m8pc84lPr21qifhpdo5_250.gif)
+![my-eyes](https://user-images.githubusercontent.com/54276661/118803199-b253cc80-b8c0-11eb-9a39-3afbd7b54d63.gif)
+
 
 ![](https://media.giphy.com/media/PjYfyarIEsNGM/giphy.gif)
 
@@ -22,7 +28,11 @@ Some of the best moments I have definitely not forgot to include:
 
 ![enter image description here](https://media.giphy.com/media/F5qctSzyXCiYM/giphy.gif)
 
-![enter image description here](https://i.gifer.com/CYN9.gif)
+![enter image description here](https://i.imgur.com/yqCA6.gif)
 
 ![enter image description here](https://media.giphy.com/media/RJgcQtiKDfuQDG2eKr/giphy.gif)
 
+
+and much more....
+
+## Thanks!
